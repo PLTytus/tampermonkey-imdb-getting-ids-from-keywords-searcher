@@ -8,4 +8,4 @@
 
 # Direct link to install script
 
-[https://github.com/PLTytus/tampermonkey-rgsc-advanced-friends-manager/raw/master/rgsc_advanced_friends_manager.user.js](https://github.com/PLTytus/tampermonkey-imdb-getting-ids-from-keywords-searcher/raw/master/imdb_getting_ids_from_keywords_searcher.user.js)
+https://github.com/PLTytus/tampermonkey-imdb-getting-ids-from-keywords-searcher/raw/master/imdb_getting_ids_from_keywords_searcher.user.js
